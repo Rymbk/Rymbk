@@ -1,32 +1,26 @@
-<!-- HEADER / BANNER -->
-<h1 align="center">👋 Hello, I'm <span style="color:#FADADD">Mariem Boukennouche</span></h1>
-<h3 align="center">AI & Data Science Student | Future AI Research Engineer</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#F8BBD0">Mariem Boukennouche</span></h1>
+<h3 align="center">AI & Data Science Student | Computer Vision & Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F8BBD0&center=true&vCenter=true&width=550&lines=AI+Engineer+in+Progress;LLMs+%7C+Deep+Learning+%7C+Computer+Vision;Building+Intelligent+%26+Autonomous+Systems;Curious+About+Reasoning+Models+%26+Agents" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F8BBD0&center=true&vCenter=true&width=650&lines=Computer+Vision+Enthusiast;Robotics+%26+Autonomous+Systems;Deep+Learning+Engineer;Building+Intelligent+Perception+Systems" />
 </p>
-
-
-
 
 ---
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-I’m a final-year Artificial Intelligence & Data Science engineering student passionate about Computer Vision, Robotics, and building intelligent real-world systems.
-I enjoy working at the intersection of deep learning, autonomous perception, and embedded AI, especially where machines can see, understand, and interact with their environment.
+I’m a final-year **Artificial Intelligence & Data Science** engineering student with a strong passion for **Computer Vision**, **Robotics**, and **Autonomous Intelligent Systems**.  
+I love building models that help machines **see**, **understand**, and **interact** with the world.
 
-I also explore LLMs, NLP, and multimodal learning, but my strongest curiosity lies in:
+While I also enjoy working with **LLMs**, **NLP**, and **RAG pipelines**, my deepest curiosity lies in:
 
-🤖 Robotics & autonomous systems
+- 🤖 **Robotics & Embedded AI** — real-time control, autonomous navigation, sensor-driven perception  
+- 👁️ **Computer Vision** — object detection, medical imaging, style transfer, image enhancement  
+- 🧠 **Deep Neural Models** — CNNs, transformers, representation learning  
+- 📡 **Applied Machine Learning** — turning models into real systems  
 
-👁️ Computer Vision (CV)
+I'm actively seeking **research internships** in **Computer Vision**, **Robotics**, Deep Learning, or Intelligent Systems.
 
-📷 Perception models, object detection, tracking, style transfer, medical imaging
-
-🧠 Deep neural architectures & model optimization
-
-🎯 I’m actively seeking research internships in Computer Vision, Robotics, Deep Learning, or Intelligent Systems.
 📫 **Email:** mboukennouche@gmail.com  
 🌍 **Location:** Algiers, Algeria  
 
@@ -34,27 +28,42 @@ I also explore LLMs, NLP, and multimodal learning, but my strongest curiosity li
 
 ## 🚀 Featured Projects
 
-### 📄 **Automated Information Retrieval & Summarization for Academic Research**
-> OCR + RAG + LLM pipeline for scientific documents  
-- Built a complete extraction/summarization workflow  
-- Used ChromaDB, sentence embeddings, agents, and retrieval pipelines  
-- Helps researchers quickly understand long PDFs  
-🔗 Repo: https://github.com/Rymbk/Automated-Information-Retrieval---Summarization-for-Academic-Research-Articles
+### 🤖 **Autonomous Robot Navigation System (Raspberry Pi + ZBoard + CV)**
+**Embedded Systems Internship (2024)**  
+Developed a real-world robot control system combining embedded hardware, computer vision, and autonomous decision-making.
+
+**Highlights:**  
+- Built a control system on **Raspberry Pi 4** with Flask backend  
+- Designed a mobile app for remote robot operation  
+- Integrated **obstacle avoidance** using sensors  
+- Implemented **real-time camera streaming**  
+- Added **human detection** using computer vision  
+- Programmed interrupt-driven systems on **ZBoard**  
+
+**Tech:** Python, OpenCV, Raspberry Pi, Embedded C, Flask, Sockets  
 
 ---
 
-### 🎨 **Fast Neural Image Style Transfer (GAN-based)**
-> Applying artistic styles in real time  
-- Implemented encoder–decoder + residual architecture  
-- Trained a model to transfer artistic styles (Van Gogh, Picasso…)  
-🔗 Repo: https://github.com/Rymbk/Image-style-transfer-gans
+### 🖼️ **Fast Neural Image Style Transfer (GAN-based)**  
+Applies artistic styles (Van Gogh, Picasso, etc.) to images in real time using an encoder–decoder architecture with residual blocks.
+
+🔗 Repo: https://github.com/Rymbk/Image-style-transfer-gans  
+**Tech:** PyTorch, CNNs, Style Transfer, Deep Learning  
 
 ---
 
-### 📚 **Topic Modeling System**
-> Discovering themes in large text collections  
-- Built LDA, NMF, LSA + embedding-based clustering  
-- Useful for categorizing academic and news articles  
+### 📄 **Automated Research Paper Summarization (OCR + RAG + LLM)**  
+OCR + LLM-powered tool that extracts, retrieves, and summarizes academic research papers.
+
+**Features:**  
+- OCR extraction from PDFs  
+- ChromaDB vector store  
+- Sentence embeddings + retrieval  
+- LLM-based summarization  
+- Structured output (abstract, methods, results)  
+
+🔗 Repo: https://github.com/Rymbk/Automated-Information-Retrieval---Summarization-for-Academic-Research-Articles  
+**Tech:** Hugging Face, ChromaDB, LLMs, OCR, Python  
 
 ---
 
@@ -66,24 +75,24 @@ I also explore LLMs, NLP, and multimodal learning, but my strongest curiosity li
 </p>
 
 ### **Machine Learning & Deep Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /></p>
 
 - CNNs, RNNs, Transformers  
 - Transfer Learning  
-- Reinforcement Learning  
 - Computer Vision (OpenCV)  
-- Model Evaluation & Optimization  
+- Image processing & representation learning  
+- Model deployment  
 
 ### **Natural Language Processing**
-- Tokenization, embeddings, Word2Vec, GloVe  
-- Seq2Seq, Attention, BERT, Transformers  
-- Topic modeling, text clustering  
+- BERT, Transformers  
+- RAG pipelines & summarization  
+- Word embeddings (Word2Vec, GloVe)  
+- Topic modeling  
 
 ### **Big Data**
-- Hadoop, Spark RDD, SparkSQL, Spark MLlib  
-- MongoDB, ETL pipelines  
+- Hadoop, Spark RDD  
+- SparkSQL, Spark MLlib  
+- MongoDB  
 
 ---
 
@@ -113,4 +122,4 @@ I also explore LLMs, NLP, and multimodal learning, but my strongest curiosity li
 
 ---
 
-### ⭐ *"Curious about how intelligence emerges from models — and how it can serve humanity."*
+### ⭐ *"Making machines see, learn, and move — one model at a time."*

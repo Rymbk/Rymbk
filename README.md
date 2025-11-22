@@ -1,5 +1,5 @@
 <!-- HEADER / BANNER -->
-<h1 align="center">👋 Hello, I'm <span style="color:#7E57C2">Mariem Boukennouche</span></h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#FADADD">Mariem Boukennouche</span></h1>
 <h3 align="center">AI & Data Science Student | Future AI Research Engineer</h3>
 
 <p align="center">

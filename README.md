@@ -9,21 +9,19 @@
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
-I’m a final-year **Artificial Intelligence & Data Science** engineering student passionate about building **intelligent systems**, especially those powered by **LLMs**, **multimodal learning**, and **deep learning**.
+I’m a final-year Artificial Intelligence & Data Science engineering student passionate about Computer Vision, Robotics, and building intelligent real-world systems.
+I enjoy working at the intersection of deep learning, autonomous perception, and embedded AI, especially where machines can see, understand, and interact with their environment.
 
-My work combines **research** + **engineering**, with experience in:
+I also explore LLMs, NLP, and multimodal learning, but my strongest curiosity lies in:
 
-- 🔍 **Information retrieval & LLM summarization**
-- 🧠 **Neural networks, transformers & generative models**
-- 🖼️ **Computer vision & image processing**
-- 🤖 **AI agents and autonomous reasoning systems**
-- 📡 **Embedded systems + robotics (ZBoard, Raspberry Pi)**
+🤖 Robotics & autonomous systems
+👁️ Computer Vision (CV)
+📷 Perception models, object detection, tracking, style transfer, medical imaging
+🧠 Deep neural architectures & model optimization
 
-🎯 **I’m currently looking for research internships** in  
-**LLMs, multimodal AI, NLP, AI agents, or computer vision.**
-
+🎯 I’m actively seeking research internships in Computer Vision, Robotics, Deep Learning, or Intelligent Systems.
 📫 **Email:** mboukennouche@gmail.com  
 🌍 **Location:** Algiers, Algeria  
 

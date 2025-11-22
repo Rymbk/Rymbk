@@ -1,49 +1,50 @@
-# 👋 Hello, I'm Mariem Boukennouche
-
-**AI & Data Science student | Backend Developer**
-
-I'm a final-year student specializing in **Artificial Intelligence and Data Science** at ESI-SBA. I'm passionate about building intelligent systems and am currently diving deep into **LLMs, Computer Vision and Reinforcement Learning**.
-
-🔭 **I’m currently looking for a Final Year Internship** in AI/ML, Data Science, or Robotics.
+<h1 align="center">Hello 👋, I am Mariem Boukennouche </h1>
+<h3 align="center">AI & Data Science Student| Backend Developer </h3>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 👩‍💻 About Me
 
-**🤖 AI & Data Science**
-`Python` `PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` `Hugging Face` `LangChain` 
-
-**💻 Backend & Development**
-`Java` `Flask` `Docker` `Git` `SQL` `MongoDB`
-
-**🎨 Frontend & Tools**
-`Streamlit` `HTML/CSS` `Figma`
-
+- 🔭 I’m currently working on **AI Engineering and Research projects**
+- 🧠 My current interests revolve around:
+  - **Large Language Models (LLMs)** and **Reasoning Models**
+  - **Vision-Language Models (VLMs)** and **Multimodal Learning**
+  - **AI Agents** and **Autonomous Systems**
+  - **Applications of AI in Healthcare and Mental Health**
+- 🌱 I’m continuously learning about **AI Research, Applied Deep Learning, and Cloud-based AI Systems**
+- 📫 Reach me at **mboukennouche@gmail.com**
+- 🤝 I’m open to **research internships** and **collaborations** in **LLMs**
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rymbk&show_icons=true&theme=default&hide_border=true" />
-  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rymbk&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rymbk&layout=compact&hide_border=true&langs_count=6" />
-</p>
-
-<!-- Optional: Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rymbk&theme=github&hide_border=true&area=true" />
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mariem-boukennouche-45b05027a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mariem-Boukennouche" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 📫 Let's Connect!
+### 🧰 Languages & Tools
+<p align="left">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-- **📧 Email:** mboukennouche@gmail.com
-- **💼 LinkedIn:** [Mariem Boukennouche](https://www.linkedin.com/in/your-linkedin) *// Check if you have one!*
-- **📝 CV/Resume:** [Download my CV](link-to-your-CV-PDF-in-a-repo)
+---
 
-*Open to collaborations and internship opportunities!*
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rymbk&show_icons=true&locale=en&layout=compact" alt="MariemBoukennouche" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rymbk&show_icons=true&locale=en" alt="MariemBoukennouce" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meriemterki&" alt="MariemBoukennouce" /></p>
+
+---
+
+⭐ *"Curious about how intelligence emerges from models — and how it can serve humanity."*

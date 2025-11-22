@@ -17,8 +17,11 @@ I enjoy working at the intersection of deep learning, autonomous perception, and
 I also explore LLMs, NLP, and multimodal learning, but my strongest curiosity lies in:
 
 🤖 Robotics & autonomous systems
+
 👁️ Computer Vision (CV)
+
 📷 Perception models, object detection, tracking, style transfer, medical imaging
+
 🧠 Deep neural architectures & model optimization
 
 🎯 I’m actively seeking research internships in Computer Vision, Robotics, Deep Learning, or Intelligent Systems.

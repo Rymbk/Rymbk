@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Student | Computer Vision & Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F8BBD0&center=true&vCenter=true&width=650&lines=Computer+Vision+Enthusiast;Robotics+%26+Autonomous+Systems;Deep+Learning+Engineer;Building+Intelligent+Perception+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F8BBD0&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Robotics+&+Computer+vision+%26+Autonomous+Systems;Deep+Learning+Engineer;Building+Intelligent+Perception+Systems" />
 </p>
 
 ---

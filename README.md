@@ -3,8 +3,9 @@
 <h3 align="center">AI & Data Science Student | Future AI Research Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=550&lines=AI+Engineer+in+Progress;LLMs+%7C+Deep+Learning+%7C+Computer+Vision;Building+Intelligent+%26+Autonomous+Systems;Curious+About+Reasoning+Models+%26+Agents" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F8BBD0&center=true&vCenter=true&width=550&lines=AI+Engineer+in+Progress;LLMs+%7C+Deep+Learning+%7C+Computer+Vision;Building+Intelligent+%26+Autonomous+Systems;Curious+About+Reasoning+Models+%26+Agents" />
 </p>
+
 
 ---
 

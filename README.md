@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#F8BBD0">Mariem Boukennouche</span></h1>
-<h3 align="center">AI & Data Science Student | Computer Vision & Robotics Enthusiast</h3>
+<h3 align="center">AI & Data Science Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F8BBD0&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress" />

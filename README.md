@@ -19,8 +19,6 @@ While I also enjoy working with **LLMs**, **NLP**, and **RAG pipelines**, my dee
 - 🧠 **Deep Neural Models** — CNNs, transformers, representation learning  
 - 📡 **Applied Machine Learning** — turning models into real systems  
 
-I'm actively seeking **research internships** in **Computer Vision**, **Robotics**, Deep Learning, or Intelligent Systems.
-
 📫 **Email:** mboukennouche@gmail.com  
 🌍 **Location:** Algiers, Algeria  
 
